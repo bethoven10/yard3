@@ -1,4 +1,4 @@
-# The Yard API
+t# The Yard APIe
 
 ## Overview
 The Yard API is a Spring Boot REST service that provides HBCU students with access to opportunities such as scholarships, internships, organizations, and events. It supports browsing, filtering, and retrieving opportunity details.
@@ -18,6 +18,63 @@ The Yard API is a Spring Boot REST service that provides HBCU students with acce
 
 2. Run the application:
 
-```bash
+bash
 mvn spring-boot:run
-# yard3
+
+	Open your browser or Postman and go to:
+
+http://localhost:8080
+
+⸻
+
+How to Run Tests
+
+Run all tests using: mvn test
+
+All tests should pass successfully.
+
+⸻
+
+API Endpoints
+
+Get All Opportunities
+	•	Method: GET
+	•	URL:
+http://localhost:8080/api/opportunities
+
+⸻
+
+Filter by Type
+	•	Method: GET
+	•	URL:
+http://localhost:8080/api/opportunities?type=Scholarship
+
+⸻
+
+Search by Keyword (q)
+	•	Method: GET
+	•	URL:
+http://localhost:8080/api/opportunities?q=STEM
+
+⸻
+
+Combine Filters
+	•	Method: GET
+	•	URL:
+http://localhost:8080/api/opportunities?type=Internship&q=paid
+
+⸻
+
+Get Opportunity by ID (Valid)
+	•	Method: GET
+	•	URL:
+http://localhost:8080/api/opportunities/1
+
+⸻
+
+Get Opportunity by ID (Invalid → 404)
+	•	Method: GET
+	•	URL:
+http://localhost:8080/api/opportunities/999
+
+ #yard3

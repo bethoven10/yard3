@@ -79,3 +79,12 @@ Get Opportunity by ID (Invalid → 404)
 http://localhost:8080/api/opportunities/999
 
  #yard3
+
+ AI DISCLOSE: ## AI Disclosure
+
+AI tools (ChatGPT) were used during the development of this project to assist with:
+- Debugging Maven build and dependency issues
+- Fixing Spring Boot test configuration (MockMvc setup)
+- Understanding controller testing structure
+
+All final code, design decisions, and implementation were reviewed, modified, and verified by me (Bethoven Valcourt).

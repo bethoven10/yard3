@@ -1,4 +1,5 @@
 t# The Yard APIe
+LINK TO WALKTHROUGH: https://drive.google.com/file/d/1FZXR9-mheR-s6vL7_AFlOeNBtVd70emb/view?usp=sharing
 
 ## Overview
 The Yard API is a Spring Boot REST service that provides HBCU students with access to opportunities such as scholarships, internships, organizations, and events. It supports browsing, filtering, and retrieving opportunity details.

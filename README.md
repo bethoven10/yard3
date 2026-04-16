@@ -1,7 +1,7 @@
 t# The Yard APIe
-LINK TO WALKTHROUGH: https://drive.google.com/file/d/1FZXR9-mheR-s6vL7_AFlOeNBtVd70emb/view?usp=sharing
+LINK TO P0A2 Part 1: https://drive.google.com/file/d/1FZXR9-mheR-s6vL7_AFlOeNBtVd70emb/view?usp=sharing
 
-SCREEN RECORDING P0A2: https://drive.google.com/file/d/1w38qOyS6g4H73W-2uDKWZMr40bWFy6Zx/view?usp=sharing
+SCREEN RECORDING P0A2 Part 2: https://drive.google.com/file/d/1w38qOyS6g4H73W-2uDKWZMr40bWFy6Zx/view?usp=sharing
 
 LINK to POSTMAN SAMPLE: https://drive.google.com/file/d/1WL_k60h64F3o40k5utWV-SjDELvlXR4-/view?usp=sharing
 

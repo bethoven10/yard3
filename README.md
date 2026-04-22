@@ -3,6 +3,8 @@ LINK TO P0A2 Part 1: https://drive.google.com/file/d/1FZXR9-mheR-s6vL7_AFlOeNBtV
 
 SCREEN RECORDING P0A2 Part 2: https://drive.google.com/file/d/1w38qOyS6g4H73W-2uDKWZMr40bWFy6Zx/view?usp=sharing
 
+SCREEN RECORDING P0A2 PART 3: https://drive.google.com/file/d/1uX8hWXbo_CMfY5B_zXUQVz1EwcNfz_FA/view?usp=sharing
+
 LINK to POSTMAN SAMPLE: https://drive.google.com/file/d/1WL_k60h64F3o40k5utWV-SjDELvlXR4-/view?usp=sharing
 
 ## Overview
